@@ -8,7 +8,7 @@ Useful python scripts for simple FASTA file manipulations.
 python3 setup.py build
 sudo python3 setup.py install
 ```
-This will install a serie of scripts in /usr/local/bin/.
+This will install the module fasta containing reader and writer functions, as well as a serie of scripts in /usr/local/bin/.
 
 ## Scripts
 
